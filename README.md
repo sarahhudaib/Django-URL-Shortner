@@ -3,7 +3,7 @@
 
 ---
 
-### To run this project:
+### Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
 - $ pip install django
 - $ pip install virtualenv
 - $ pip freeze > requirements.txt
