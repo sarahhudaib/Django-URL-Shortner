@@ -7,7 +7,6 @@
 - $ pip install django
 - $ pip install virtualenv
 - $ pip freeze > requirements.txt
-- 
 
 
 --------
