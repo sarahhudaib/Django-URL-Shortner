@@ -14,7 +14,8 @@
 
 ### Run the Project
 Open Console in Main Project Directory.
-- git clone https://github.com/sarahhudaib/Django-URL-Shortner.git
+- $ git clone https://github.com/sarahhudaib/Django-URL-Shortner.git
+- $ cd Django-URL-Shortner
 - $ python manage.py runserver
 - on your browser (http://localhost:8000/)
 
